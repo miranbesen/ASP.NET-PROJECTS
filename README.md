@@ -1,1 +1,1 @@
-# WebTabanli_WinProg
+# ASP.NET Basic Project
